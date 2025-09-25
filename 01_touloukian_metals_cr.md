@@ -1,0 +1,445 @@
+
+### SPECIFICATION TABLE NO. 33: HEMISPHERICAL TOTAL EMITTANCE OF CHROMIUM
+
+| Curve No. | Ref. No. | Year | Temperature Range, K | Reported Error, % | Composition (weight percent), Specifications and Remarks |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 9 | 1960 | 77.4 | | Plated on monel; measured in vacuum (10⁻⁵ mm Hg). |
+
+---
+
+### DATA TABLE NO. 33: HEMISPHERICAL TOTAL EMITTANCE OF CHROMIUM
+[Temperature, T, K; Emittance, ∈]
+
+**CURVE 1***
+
+| T | ∈ |
+| :--- | :--- |
+| 77.4 | 0.084 |
+
+*Not shown on plot*
+
+---
+
+### SPECIFICATION TABLE NO. 34: NORMAL TOTAL EMITTANCE OF CHROMIUM
+
+| Curve No. | Ref. No. | Year | Temperature Range, K | Geometry θ' | Reported Error, % | Composition (weight percent), Specifications and Remarks |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 16 | 1937 | 367 | ~0° | ± 1.1 | Plated on iron; polished. |
+| 2 | 15 | 1947 | 373 | ~0° | | Polished. |
+| 3 | 34 | 1957 | 516-1005 | ~0° | ±10 | Pure; strip (0.005 in. thick); same results obtained for 4 different surface treatments (a. as received, b. cleaned with liquid detergent, c. polished, d. oxidized in air at red heat for 30 min.); measured in air (5 x 10⁻⁴ mm Hg); increasing temp, Cycle 1. |
+| 4 | 34 | 1957 | 680-1216 | ~0° | ±10 | Above specimen and conditions, Cycle 2. |
+| 5 | 34 | 1957 | 722-1205 | ~0° | ±10 | Above specimen and conditions, Cycle 3. |
+
+---
+
+### DATA TABLE NO. 34: NORMAL TOTAL EMITTANCE OF CHROMIUM
+[Temperature, T, K; Emittance, ∈]
+
+**CURVE 1**
+
+| T | E |
+| :-- | :-- |
+| 367 | 0.08 |
+
+**CURVE 2**
+
+| T | E |
+| :-- | :-- |
+| 373 | 0.075 |
+
+**CURVE 3**
+
+| T | E |
+| :-- | :-- |
+| 516 | 0.055 |
+| 903 | 0.141 |
+| 1005| 0.230 |
+
+**CURVE 4**
+
+| T | E |
+| :-- | :-- |
+| 680 | 0.110 |
+| 855 | 0.171 |
+| 966 | 0.240 |
+| 1072| 0.405 |
+| 1166| 0.382 |
+| 1216| 0.420 |
+
+**CURVE 5**
+
+| T | E |
+| :-- | :-- |
+| 722 | 0.290 |
+| 905 | 0.355 |
+| 1072| 0.435 |
+| 1205| 0.480 |
+
+---
+
+### SPECIFICATION TABLE NO. 35: NORMAL SPECTRAL EMITTANCE OF CHROMIUM
+
+| Curve No. | Ref. No. | Year | Wavelength μ | Temperature Range, K | Geometry θ' | Reported Error, % | Composition (weight percent), Specifications and Remarks |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 19 | 1914 | 0.65 | 1703 | ~0° | 1 | Film; tungsten substrate; melted in hydrogen then oxidized in air by heating; measured in air; Pt reference (€ = 0.33 for λ = 0.650 μ at all temp). |
+| 2 | 39 | 1948 | 0.669 | 1550 | ~0° | | Heated in hydrogen for one week at 1493° K; measured in hydrogen; € independent of temp up to 1550 °K. |
+
+---
+
+### DATA TABLE NO. 35: NORMAL SPECTRAL EMITTANCE OF CHROMIUM
+[Temperature, T, K; Emittance, E; Wavelength, λ, μ]
+
+**CURVE 1**
+
+λ = 0.65
+
+| T | E |
+| :--- | :--- |
+| 1703 | 0.60 |
+
+**CURVE 2**
+
+λ = 0.669
+
+| T | E |
+| :--- | :--- |
+| 1550 | 0.334 |
+
+*Not shown on plot*
+
+---
+
+### SPECIFICATION TABLE NO. 36: NORMAL SPECTRAL EMITTANCE OF CHROMIUM
+
+| Curve No. | Ref. No. | Year | Temperature K | Wavelength Range, μ | Geometry θ' | Reported Error, % | Composition (weight percent), Specifications and Remarks |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 19 | 1914 | 1733 | 0.55-0.65 | ~0° | | Film; tungsten substrate; measured in hydrogen; Pt reference (€ = 0.33 for λ = 0.650 μ and € = 0.38 for λ = 0.547 μ at all temp). |
+
+---
+
+### DATA TABLE NO. 36: NORMAL SPECTRAL EMITTANCE OF CHROMIUM
+[Wavelength, λ, μ; Emittance, E; Temperature, T, K]
+
+**CURVE 1**
+
+T = 1733
+
+| λ | E |
+| :--- | :--- |
+| 0.55 | 0.53 |
+| 0.65 | 0.39 |
+
+*Not shown on plot*
+
+---
+
+### SPECIFICATION TABLE NO. 37: NORMAL SPECTRAL REFLECTANCE OF CHROMIUM
+
+| Curve No. | Ref. No. | Year | Temperature K | Wavelength Range, μ | Geometry θ θ' ω' | Reported Error, % | Composition (weight percent), Specifications and Remarks |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 124 | 1941 | 298 | 0.1347-0.2026 | ~0°~0° | | Polished; measured in vacuum (~10⁻⁶ mm Hg). |
+| 2 | 146 | 1958 | 298 | 0.3-2.7 | 9° 2π | | Electroplated; measured in vacuum; data extracted from smooth curve; MgCO₃ reference. |
+| 3 | 223 | 1962 | 298 | 2.00-25.99 | ~0° 2π | | Polished; converted from R(2π, 0°). |
+| 4 | 223 | 1962 | 298 | 2.00-26.00 | ~0° 2π | | Above specimen and conditions except after particle impact. |
+| 5 | 223 | 1962 | 77 | 2.00-26.00 | ~0° 2π | | Above specimen and conditions. |
+| 6 | 235 | 1967 | 298 | 2.5-30.0 | ~0°~0° | | 5N pure chromium; mechanically polished with 0.25 μ diamond grit; electro-polished; annealed in a high vacuum. |
+
+---
+
+### DATA TABLE NO. 37: NORMAL SPECTRAL REFLECTANCE OF CHROMIUM
+[Wavelength, λ,μ; Reflectance, p; Temperature, T, K]
+
+**CURVE 1 (T = 298)**
+
+| λ | p |
+| :--- | :-- |
+| 0.1347 | 0.14 |
+| 0.1438 | 0.16 |
+| 0.1570 | 0.19 |
+| 0.1640 | 0.22 |
+| 0.1757 | 0.27 |
+| 0.1901 | 0.32 |
+| 0.2026 | 0.37 |
+
+**CURVE 2 (T = 298)**
+
+| λ | p |
+| :-- | :-- |
+| 0.3 | 0.485 |
+| 0.4 | 0.570 |
+| 0.5 | 0.589 |
+| 0.6 | 0.570 |
+| 0.7 | 0.565 |
+| 0.8 | 0.577 |
+| 0.9 | 0.587 |
+| 1.0 | 0.572 |
+| 1.1 | 0.580 |
+| 1.2 | 0.600 |
+| 1.3 | 0.633 |
+| 1.4 | 0.672 |
+| 1.5 | 0.681 |
+| 1.6 | 0.681 |
+| 1.7 | 0.673 |
+| 1.8 | 0.674 |
+| 1.9 | 0.700 |
+| 2.0 | 0.730 |
+| 2.1 | 0.764 |
+| 2.2 | 0.790 |
+| 2.3 | 0.826 |
+| 2.4 | 0.845 |
+| 2.5 | 0.890 |
+| 2.6 | 0.927 |
+| 2.7 | 0.905 |
+
+**CURVE 3 (T = 298)**
+
+| λ | p |
+| :--- | :-- |
+| 2.00 | 0.780 |
+| 2.73 | 0.844 |
+| 4.07 | 0.902 |
+| 6.41 | 0.943 |
+| 8.50 | 0.942 |
+| 10.87 | 0.950 |
+| 12.51 | 0.949 |
+| 14.18 | 0.946 |
+| 17.60 | 0.946 |
+| 21.94 | 0.948 |
+| 25.99 | 0.953 |
+
+**CURVE 4 (T = 298)**
+
+| λ | p |
+| :--- | :-- |
+| 2.00 | 0.728 |
+| 2.61 | 0.788 |
+| 3.89 | 0.849 |
+| 5.31 | 0.881 |
+| 7.49 | 0.900 |
+| 9.31 | 0.904 |
+| 11.33 | 0.906 |
+| 13.49 | 0.915 |
+| 15.57 | 0.921 |
+| 18.79 | 0.923 |
+| 21.53 | 0.930 |
+| 23.57 | 0.925 |
+| 26.00 | 0.909 |
+
+**CURVE 5 (T = 77)**
+
+| λ | p |
+| :--- | :-- |
+| 2.00 | 0.727* |
+| 3.89 | 0.864 |
+| 5.98 | 0.906 |
+| 7.99 | 0.913 |
+| 9.94 | 0.903 |
+| 11.99 | 0.901 |
+| 13.98 | 0.922 |
+| 16.02 | 0.922 |
+| 18.02 | 0.925 |
+| 20.05 | 0.924 |
+| 21.90 | 0.930 |
+| 23.98 | 0.913 |
+| 26.00 | 0.909* |
+
+**CURVE 6* (T = 298)**
+
+| λ | p |
+| :--- | :-- |
+| 2.5 | 0.709 |
+| 3.0 | 0.778 |
+| 4.0 | 0.848 |
+| 5.0 | 0.879 |
+| 6.0 | 0.890 |
+| 6.4 | 0.900 |
+| 7.0 | 0.915 |
+| 8.0 | 0.927 |
+| 9.0 | 0.938 |
+| 10.0 | 0.946 |
+| 11.0 | 0.955 |
+| 12.0 | 0.960 |
+| 13.0 | 0.964 |
+| 14.0 | 0.969 |
+| 15.0 | 0.972 |
+| 20.0 | 0.975 |
+| 25.0 | 0.976 |
+| 30.0 | 0.977 |
+
+*Not shown on plot*
+
+---
+
+### SPECIFICATION TABLE NO. 38: ANGULAR SPECTRAL REFLECTANCE OF CHROMIUM
+
+| Curve No. | Ref. No. | Year | Temperature K | Wavelength Range,μ | Geometry θ θ' | Reported Error, % | Composition (weight percent), Specifications and Remarks |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 132 | 1911 | 298 | 0.55-9.40 | 15° 15° | ≤3 | Polished; silvered glass mirror reference. |
+
+---
+
+### DATA TABLE NO. 38: ANGULAR SPECTRAL REFLECTANCE OF CHROMIUM
+[Wavelength, λ, μ; Reflectance, ρ; Temperature, T, K]
+
+**CURVE 1**
+
+T = 298
+
+| λ | ρ |
+| :--- | :--- |
+| 0.55 | 0.550 |
+| 1.17 | 0.575 |
+| 1.55 | 0.605 |
+| 2.05 | 0.623 |
+| 2.45 | 0.650 |
+| 3.05 | 0.700 |
+| 4.05 | 0.765 |
+| 4.80 | 0.795 |
+| 5.45 | 0.825 |
+| 6.10 | 0.855 |
+| 6.60 | 0.860 |
+| 7.10 | 0.870 |
+| 7.50 | 0.875 |
+| 8.10 | 0.885 |
+| 8.45 | 0.900 |
+| 8.80 | 0.903 |
+| 9.40 | 0.920 |
+
+*Not shown on plot*
+
+---
+
+### SPECIFICATION TABLE NO. 39: NORMAL SPECTRAL ABSORPTANCE OF CHROMIUM
+
+| Curve No. | Ref. No. | Year | Temperature K | Wavelength Range,μ | Geometry θ | Reported Error, % | Composition (weight percent), Specifications and Remarks |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 307 | 1954 | ~298 | 0.400-2.600 | ~0° | | Polished; data extracted from smooth curve. |
+
+---
+
+### DATA TABLE NO. 39: NORMAL SPECTRAL ABSORPTANCE OF CHROMIUM
+[Wavelength, λ,μ; Absorptance, α; Temperature, T, K]
+
+**CURVE 1**
+
+T = ~298
+
+| λ | α |
+| :--- | :--- |
+| 0.400 | 0.351 |
+| 0.451 | 0.343 |
+| 0.708 | 0.379 |
+| 0.801 | 0.368 |
+| 1.057 | 0.352 |
+| 1.193 | 0.313 |
+| 1.481 | 0.317 |
+| 1.596 | 0.298 |
+| 1.684 | 0.298 |
+| 1.800 | 0.265 |
+| 2.000 | 0.238 |
+| 2.200 | 0.200 |
+| 2.400 | 0.163 |
+| 2.600 | 0.169 |
+
+---
+
+### SPECIFICATION TABLE NO. 40: NORMAL SOLAR ABSORPTANCE OF CHROMIUM
+
+| Curve No. | Ref. No. | Year | Temperature Range, K | Geometry θ | Reported Error, % | Composition (weight percent), Specifications and Remarks |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 146 | 1958 | 298 | 9° | | Electroplated; computed from spectral reflectivity for sea level conditions. |
+| 2 | 146 | 1958 | 298 | 9° | | Electroplated; computed from spectral reflectivity for above atmosphere conditions. |
+
+---
+
+### DATA TABLE NO. 40: NORMAL SOLAR ABSORPTANCE OF CHROMIUM
+[Temperature, T, K; Absorptance, α]
+
+**CURVE 1***
+
+| T | α |
+| :--- | :--- |
+| 298 | 0.415 |
+
+**CURVE 2***
+
+| T | α |
+| :--- | :--- |
+| 298 | 0.397 |
+
+*Not shown on plot*
+
+---
+
+### SPECIFICATION TABLE NO. 41: NORMAL SPECTRAL TRANSMITTANCE OF CHROMIUM
+
+| Curve No. | Ref. No. | Year | Temperature K | Wavelength Range,μ | Geometry θ θ' | Reported Error, % | Composition (weight percent), Specifications and Remarks |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 311 | 1966 | 298 | 0.546 | 0° 0° | ± 1 | Evaporated film (optical thickness 334 Å); evaporated onto glass microscope slide (at 298 K) in vacuum (2 x 10⁻⁵ mm Hg); aged in desiccator at 298 K for 10 days. |
+| 2 | 311 | 1966 | 298 | 0.546 | 0° 0° | ± 1 | Different sample, same as above specimen and conditions except optical thickness 457 Å. |
+| 3 | 311 | 1966 | 298 | 0.546 | 0° 0° | ± 1 | Different sample, same as above specimen and conditions except optical thickness 573 Å. |
+| 4 | 311 | 1966 | 298 | 0.546 | 0° 0° | ± 1 | Different sample, same as above specimen and conditions except optical thickness 695 Å. |
+| 5 | 311 | 1966 | 298 | 0.546 | 0° 0° | ± 1 | Different sample, same as above specimen and conditions except optical thickness 829 Å. |
+| 6 | 311 | 1966 | 298 | 0.546 | 0° 0° | ± 1 | Different sample, same as above specimen and conditions except optical thickness 935 Å. |
+| 7 | 311 | 1966 | 298 | 0.546 | 0° 0° | ± 1 | Different sample, same as above specimen and conditions except optical thickness 983 Å. |
+| 8 | 311 | 1966 | 298 | 0.546 | 0° 0° | ± 1 | Different sample, same as above specimen and conditions except optical thickness 1072 Å. |
+| 9 | 311 | 1966 | 298 | 0.546 | 0° 0° | ± 1 | Different sample, same as above specimen and conditions except optical thickness 1134 Å. |
+
+---
+
+### DATA TABLE NO. 41: NORMAL SPECTRAL TRANSMITTANCE OF CHROMIUM
+[Wavelength, λ,μ; Transmittance, τ; Temperature, T, K]
+
+**CURVE 1 (T = 298)**
+
+| λ | τ |
+| :--- | :--- |
+| 0.546 | 0.438 |
+
+**CURVE 2 (T = 298)**
+
+| λ | τ |
+| :--- | :--- |
+| 0.546 | 0.309 |
+
+**CURVE 3 (T = 298)**
+
+| λ | τ |
+| :--- | :--- |
+| 0.546 | 0.240 |
+
+**CURVE 4 (T = 298)**
+
+| λ | τ |
+| :--- | :--- |
+| 0.546 | 0.206 |
+
+**CURVE 5 (T = 298)**
+
+| λ | τ |
+| :--- | :--- |
+| 0.546 | 0.134 |
+
+**CURVE 6 (T = 298)**
+
+| λ | τ |
+| :--- | :--- |
+| 0.546 | 0.092 |
+
+**CURVE 7 (T = 298)**
+
+| λ | τ |
+| :--- | :--- |
+| 0.546 | 0.082 |
+
+**CURVE 8 (T = 298)**
+
+| λ | τ |
+| :--- | :--- |
+| 0.546 | 0.057 |
+
+**CURVE 9 (T = 298)**
+
+| λ | τ |
+| :--- | :--- |
+| 0.546 | 0.048 |
