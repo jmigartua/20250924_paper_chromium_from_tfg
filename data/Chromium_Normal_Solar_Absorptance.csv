@@ -1,0 +1,3 @@
+Curve,T (K),Absorptance
+Curve 1* (Sea Level),298,0.415
+Curve 2* (Above Atmosphere),298,0.397
